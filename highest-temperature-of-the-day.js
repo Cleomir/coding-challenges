@@ -21,5 +21,5 @@ function findHighestTemperatureOfTheDay(temperatures) {
   return highestTemperature;
 }
 
-console.log(findHighestTemperatureOfTheDay([3, 2, -3])); // 6
-console.log(findHighestTemperatureOfTheDay([-1, -2, -3])); // 6
+console.log(findHighestTemperatureOfTheDay([3, 2, -3])); // 5
+console.log(findHighestTemperatureOfTheDay([-1, -2, -3])); // -1
